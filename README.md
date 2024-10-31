@@ -1,1 +1,3 @@
-# Sydney Users Data
+Data Scraping: Use a GitHub token with requests to authenticate, apply pagination on the search query for Sydney users with 100+ followers, save user details to users.csv and up to 500 repositories per user to repositories.csv.
+Findings: JavaScript is most popular overall, with Python and TypeScript trending among users who joined after 2020; weak correlation exists between followers and repository count, indicating minimal impact of more repositories on follower growth.
+Recommendation: Focus on quality over quantity in repositories; engage with popular languages like JavaScript, Python, and TypeScript to attract more followers.
